@@ -1,0 +1,19 @@
+This file is "hw1_README" for the git repository for homework #1
+
+name: Nathaniel Raley
+email: nathaniel.raley@utexas.edu
+
+Instructions:
+To run the program titled "hw1_print.c", first compile it using the icc 
+or gcc comand (i.e., run the following to obtain an executable file 
+called "hw1_print-c": icc hw1_print.c -o hw1_print-c). If you do not use 
+the -o flag, your program will compile to a generic executable called 
+'a.out'. 
+
+As soon as you have created your executable files for the programs 
+"hw1_print.c" and "hw1_print.c" using the above commands, you can run 
+the respective programs by entering the following command into your 
+command line: ./hw1_print-c (or ./hw1_sum-c). 
+
+For any questions or concerns, please contact me! Thanks!
+
